@@ -39,8 +39,8 @@ I started with BASIC and some DOS commands and now I am familiar with many diffe
 
 **Additional Skills:**
 - Linux and GIT Bash
-- Windows CMD/Powershell and Batch Scripting
-- Windows VisualBasic Scripting
+- Windows CMD/Powershell and Batch Programming
+- Windows VisualBasic Programming
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
