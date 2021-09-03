@@ -7,7 +7,7 @@
 
 <h3>A bit about myself:</h3>
 
-I am a student at **Dr. B.R. Ambedkar National Institute of Technology Jalandhar** pursuing B.Tech in **Chemical Engineering**. But I have always been in love with programming since I was 13.
+I am a student at **Dr. B.R. Ambedkar National Institute of Technology Jalandhar** pursuing B.Tech in **Chemical Engineering**. But I have always been in love with programming since I was 11.
 I started with BASIC and some DOS commands and now I am familiar with many different programming languages like JAVA, C/C++, Python, R and etc and concepts like OOP and basic algorithms like searching, sorting etc.
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashkverma&show_icons=true&locale=en" alt="yashkverma" /></p>
@@ -33,7 +33,7 @@ I started with BASIC and some DOS commands and now I am familiar with many diffe
 - MySQL
 
 **Web Development**
-- HTML
+- HTML5
 
 **Data Science/Analysis/Machine Learning with R and Python**
 
